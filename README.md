@@ -1,1 +1,1 @@
-# SSL_Lara_Alyster
+Este es mi 1er repositorio para la cursada de Sintaxis y Semántica de Lenguajes
